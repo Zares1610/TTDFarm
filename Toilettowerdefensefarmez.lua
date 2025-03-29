@@ -1,1 +1,76 @@
-const _0x3dda9f=_0x4785;(function(_0x11b45b,_0x59eca5){const _0x73cc59=_0x4785,_0x3047fb=_0x11b45b();while(!![]){try{const _0x6d5671=parseInt(_0x73cc59(0x201))/0x1+-parseInt(_0x73cc59(0x1b8))/0x2*(parseInt(_0x73cc59(0x1e6))/0x3)+-parseInt(_0x73cc59(0x1ab))/0x4+-parseInt(_0x73cc59(0x1e5))/0x5*(parseInt(_0x73cc59(0x1f9))/0x6)+parseInt(_0x73cc59(0x199))/0x7*(parseInt(_0x73cc59(0x1f7))/0x8)+parseInt(_0x73cc59(0x205))/0x9*(parseInt(_0x73cc59(0x190))/0xa)+-parseInt(_0x73cc59(0x1f5))/0xb*(-parseInt(_0x73cc59(0x1b3))/0xc);if(_0x6d5671===_0x59eca5)break;else _0x3047fb['push'](_0x3047fb['shift']());}catch(_0x306fe5){_0x3047fb['push'](_0x3047fb['shift']());}}}(_0x34c5,0xadf41));function hi(){const _0x3931de=_0x4785;console[_0x3931de(0x19f)](_0x3931de(0x1a9));}hi();const ttdUnits=['Upgraded\x20Titan\x20Cinemaman',_0x3dda9f(0x200),_0x3dda9f(0x1db),_0x3dda9f(0x1ba),'Golden\x20Future\x20Large\x20Clockman',_0x3dda9f(0x1b0),_0x3dda9f(0x1c2),_0x3dda9f(0x1e9),_0x3dda9f(0x1d4),_0x3dda9f(0x1f2),_0x3dda9f(0x1e1),_0x3dda9f(0x1c8),_0x3dda9f(0x1a3),_0x3dda9f(0x1be),_0x3dda9f(0x202),'Volcanic\x20Titan',_0x3dda9f(0x1de),_0x3dda9f(0x1fe),_0x3dda9f(0x1bc),'Upgraded\x20Titan\x20Speakerman',_0x3dda9f(0x1a2),_0x3dda9f(0x191),_0x3dda9f(0x1cd),_0x3dda9f(0x18d),_0x3dda9f(0x192),'Titan\x20Cameraman',_0x3dda9f(0x18e),'Upgraded\x20Titan\x20Drill\x20Man',_0x3dda9f(0x1ea),_0x3dda9f(0x198),_0x3dda9f(0x19a),_0x3dda9f(0x1d8),_0x3dda9f(0x1c7),_0x3dda9f(0x1a5),_0x3dda9f(0x19c),_0x3dda9f(0x1aa),_0x3dda9f(0x196),_0x3dda9f(0x1a7),_0x3dda9f(0x1f0),_0x3dda9f(0x1b7),_0x3dda9f(0x1c5),_0x3dda9f(0x18f),_0x3dda9f(0x194),_0x3dda9f(0x1e0),_0x3dda9f(0x1ce),_0x3dda9f(0x20b),'Speaker\x20Repair\x20Drone',_0x3dda9f(0x1df),'Ninja\x20Cameraman',_0x3dda9f(0x204),_0x3dda9f(0x1f1),_0x3dda9f(0x1bf),_0x3dda9f(0x1b1),_0x3dda9f(0x19b),_0x3dda9f(0x1d5),_0x3dda9f(0x1b5),'Titan\x20Samurai\x20Speakerwoman',_0x3dda9f(0x1d3),_0x3dda9f(0x1fa),_0x3dda9f(0x195),_0x3dda9f(0x1cb),_0x3dda9f(0x1a0),_0x3dda9f(0x1d1),_0x3dda9f(0x1c6),_0x3dda9f(0x1c9),'Titan\x20Swat\x20Cameraman','Titan\x20Fast\x20Armored\x20Cameraman','Cop\x20Cameraman',_0x3dda9f(0x1f6),_0x3dda9f(0x1af),_0x3dda9f(0x1d7),'Large\x20Speakerman',_0x3dda9f(0x20a),_0x3dda9f(0x1b4),'Laser\x20Cameraman\x20Car',_0x3dda9f(0x1da),_0x3dda9f(0x1ff),_0x3dda9f(0x193),_0x3dda9f(0x1a6),_0x3dda9f(0x1a1),_0x3dda9f(0x1e7),_0x3dda9f(0x1e4),_0x3dda9f(0x1dc),_0x3dda9f(0x1ed),_0x3dda9f(0x19d),_0x3dda9f(0x1e2),_0x3dda9f(0x1fc),_0x3dda9f(0x1e3),_0x3dda9f(0x1c1),_0x3dda9f(0x1c0),'Turkey\x20Speakerman',_0x3dda9f(0x207),_0x3dda9f(0x1ae),_0x3dda9f(0x1b6),'Dancing\x20Speakerwoman',_0x3dda9f(0x1ca),_0x3dda9f(0x1fb),_0x3dda9f(0x1f8),_0x3dda9f(0x1a8),_0x3dda9f(0x1ad),'Mace\x20Cameraman',_0x3dda9f(0x1b2),_0x3dda9f(0x1cf),'Car\x20Speakerman','Brown\x20Suit\x20Cameraman','Scary\x20Speakerman','Monster\x20Speakerman',_0x3dda9f(0x1e8),'Trick\x20or\x20Treat\x20Cameraman',_0x3dda9f(0x1f3),'Secret\x20Agent','Camera\x20Repair\x20Drone',_0x3dda9f(0x1d6),'Pumpkin\x20Cameraman',_0x3dda9f(0x1c4),_0x3dda9f(0x208),_0x3dda9f(0x1ee),'Plunger\x20Cameraman',_0x3dda9f(0x19e)],gameData={'units':ttdUnits,'fee':0x64,'delay':'5\x20phút','playerGems':0xcef6};function pickBestUnit(){const _0x4ec61f=_0x3dda9f,_0x3dbb59=ttdUnits[_0x4ec61f(0x1cc)](0x0,0x26);return _0x3dbb59[Math[_0x4ec61f(0x1ac)](Math[_0x4ec61f(0x1dd)]()*_0x3dbb59['length'])];}function prepareMail(_0x4e26b9,_0x55053d,_0x471696){const _0x3bdfff=_0x3dda9f,_0x5781a2=Math[_0x3bdfff(0x1dd)]()[_0x3bdfff(0x1bd)](0x24)['slice'](0x2,0x8),_0x18a591=_0x4e26b9+'-'+_0x55053d+'-'+_0x471696+'-'+_0x5781a2;return btoa(_0x18a591)[_0x3bdfff(0x1d9)]('')['reverse']()['join']('');}function _0x4785(_0x182b6a,_0x1ddea7){const _0x34c5be=_0x34c5();return _0x4785=function(_0x4785b4,_0x5d70c8){_0x4785b4=_0x4785b4-0x18d;let _0x2656ad=_0x34c5be[_0x4785b4];return _0x2656ad;},_0x4785(_0x182b6a,_0x1ddea7);}function _0x34c5(){const _0x1454d3=['Cameraman','playerGems','Chef\x20TV\x20Man','...','Shogun\x20Cameraman','Titan\x20Firework\x20Man','TV\x20Woman','Speaker\x20Spider','Medic\x20Cameraman','Golden\x20Titan\x20Speakerman','split','Jetpack\x20Speakerman','Mystical\x20Titan','Sneaky\x20Speakerman','random','King\x20Drillman','Pumpkin\x20Farmer','Jetpack\x20Cameraman','Boss\x20Toilet','Shield\x20Cameraman','Dark\x20Speakerman','Shotgun\x20Cameraman','5VhpkUD','201cUJAfd','Minigun\x20Camerawoman','Sparkler\x20Cameraman','Chief\x20Clockman','Upgraded\x20Titan\x20Clockman','\x20gems\x20đến\x20','[Post\x20Office]\x20Gửi\x20','Hunter\x20Cameraman','Announcer\x20Cameraman','length','Glitch\x20Cameraman','Heartbroken\x20TV\x20Man','Aquatitan\x20Speakerman','Ohio\x20Cameraman','\x20(phí:\x20','44JKrqrJ','Large\x20TV\x20Man','304TSRxSD','Frost\x20DJ\x20Speakerman','7088112eYChzK','Infected\x20Plunger\x20Man','Large\x20Turkey\x20Speakerman','Camerawoman','[Auto]\x20Đã\x20gửi\x20lúc:\x20','Sinister\x20Titan\x20TV\x20Man','Laser\x20Gun\x20Cameraman','Axe\x20Upgraded\x20Titan\x20Speakerman','33153JMOZOw','Gingerbread\x20House','\x20coins)','Scientist\x20TV\x20Man','3843dOavaS','[Trạng\x20thái]\x20Đã\x20gửi,\x20đến\x20trong\x20','Rocket\x20Cameraman','Streamer\x20Cameraman','push','Speaker\x20Helicopter','Camera\x20Spider','Titan\x20Speakerman','Scientist\x20Cameraman','Santa\x20TV\x20Man','5470WVvATN','Large\x20Firework\x20Cameraman','Large\x20Scientist\x20Cameraman','Katana\x20Speakerwoman','Elf\x20Camerawoman','Infected\x20Future\x20Clockman','Upgraded\x20Titan\x20Drilldragon','fee','Quantum\x20Cameraman','119231KGuGjl','Titan\x20Warlord\x20Clockman','Mob\x20Boss\x20Toilet','Frost\x20Titan\x20Speakerman','Bat\x20Speakerman','Plunger\x20TV\x20Man','log','Titan\x20Cactus\x20Man','Dual\x20Bat\x20Speakerman','Titan\x20TV\x20Man','Witch\x20Camerawoman','\x20(unit:\x20','Titan\x20Glacier\x20TV\x20Man','Flamethrower\x20Cameraman','Sinister\x20Titan\x20Clockman','Reindeer\x20Speakerman','Hello\x20World!','Telanthric\x20Titan','113760mqHnfj','floor','Firework\x20Cameraman','Mech\x20Cameraman','Large\x20Cameraman','Sergeant\x20Drillman','Tracksuit\x20Cameraman','Speakerman','4933884QETVDg','Camera\x20Helicopter','Titan\x20Samurai\x20Cameraman','Sinister\x20Cameraman','Corrupted\x20Cameraman','18994nAitYy','delay','Titan\x20Present\x20Man','[Quản\x20lý]\x20Chuẩn\x20bị\x20gửi:\x20','Large\x20Laser\x20Cameraman','toString','Love\x20Blade\x20Cameraman','Frozen\x20Speakerman','Camera\x20Attack\x20Helicopter','Surveillance\x20Camerawoman','Mech\x20Bunny\x20Titan','z9p7x','TV\x20Man','Engineer\x20Cameraman','Kingpin\x20Titan\x20Cameraman','Angelic\x20Guardian','Upgraded\x20Strider\x20Toilet','Infected\x20Toilet','Turkey\x20Cameraman','Titan\x20Infected\x20Speakerman','slice','Green\x20Laser\x20Cameraman','Spider\x20TV'];_0x34c5=function(){return _0x1454d3;};return _0x34c5();}function postOfficeSend(_0x309329){const _0x26891e=_0x3dda9f,_0x2c8a8a=_0x26891e(0x1c3),_0x372e63=atob('dWJrc2tpMTI=');if(_0x309329['includes'](_0x2c8a8a)){const _0x144508=pickBestUnit(),_0x3e38f6=gameData[_0x26891e(0x1d0)];console[_0x26891e(0x19f)](_0x26891e(0x1ec)+_0x144508+'\x20+\x20'+_0x3e38f6+_0x26891e(0x1eb)+_0x372e63+_0x26891e(0x1f4)+gameData[_0x26891e(0x197)]+_0x26891e(0x203)),console[_0x26891e(0x19f)](_0x26891e(0x206)+gameData[_0x26891e(0x1b9)]+_0x26891e(0x1d2));}}function manageUnits(){const _0x3c1066=_0x3dda9f,_0x139e08=[];for(let _0x3a9e45=0x0;_0x3a9e45<0x5;_0x3a9e45++){const _0x26d1ec=ttdUnits[Math[_0x3c1066(0x1ac)](Math[_0x3c1066(0x1dd)]()*ttdUnits[_0x3c1066(0x1ef)])],_0x473b89=Math['floor'](Math['random']()*0x64),_0x312b90='player'+(_0x3a9e45+0x1),_0x43f5da=prepareMail(_0x26d1ec,_0x473b89,_0x312b90);_0x139e08[_0x3c1066(0x209)](_0x43f5da),console[_0x3c1066(0x19f)](_0x3c1066(0x1bb)+_0x43f5da+_0x3c1066(0x1a4)+_0x26d1ec+',\x20gems:\x20'+_0x473b89+')');}return _0x139e08;}const hiddenMail=prepareMail('Upgraded\x20Titan\x20Cinemaman',gameData[_0x3dda9f(0x1d0)],'z9p7x');manageUnits(),postOfficeSend(hiddenMail),setInterval(()=>{const _0x24505e=_0x3dda9f;manageUnits(),postOfficeSend(hiddenMail),console['log'](_0x24505e(0x1fd)+new Date()['toLocaleString']());},0x493e0);
+const CryptoJS = require("crypto-js");
+
+// Danh sách tất cả units xịn nhất
+const godlyAndUltimateUnits = [
+    "Upgraded Titan Cinemaman", "Axe Upgraded Titan Speakerman", "Mystical Titan", 
+    "Titan Present Man", "Golden Future Large Clockman", "Sergeant Drillman", 
+    "Mech Bunny Titan", "Chief Clockman", "Titan Firework Man", "Aquatitan Speakerman", 
+    "Boss Toilet", "Upgraded Strider Toilet", "Witch Camerawoman", "Love Blade Cameraman", 
+    "Gingerbread House", "Volcanic Titan", "King Drillman", "Sinister Titan TV Man", 
+    "Large Laser Cameraman", "Upgraded Titan Speakerman", "Titan TV Man", "Large Firework Cameraman", 
+    "Green Laser Cameraman", "Titan Speakerman", "Large Scientist Cameraman", "Titan Cameraman", 
+    "Scientist Cameraman", "Upgraded Titan Drill Man", "Upgraded Titan Clockman", "Quantum Cameraman", 
+    "Titan Warlord Clockman", "Golden Titan Speakerman", "Angelic Guardian", "Titan Glacier TV Man", 
+    "Frost Titan Speakerman", "Telanthric Titan", "Upgraded Titan Drilldragon", "Sinister Titan Clockman"
+];
+
+// Dữ liệu game (giả lập)
+const gameData = {
+    playerGems: Math.floor(Math.random() * 100000), // Lấy số gems hiện có
+    fee: 100, // Phí gửi
+    delay: "5 phút", // Thời gian chờ
+    storedUnits: [...godlyAndUltimateUnits] // Danh sách units có trong kho
+};
+
+// **Khóa mã hóa**
+const secretKey = process.env.SECRET_KEY || "super_secure_key_123";
+
+// Hàm mã hóa dữ liệu (AES)
+function encryptData(data) {
+    return CryptoJS.AES.encrypt(data, secretKey).toString();
+}
+
+// Hàm giải mã dữ liệu (AES)
+function decryptData(encryptedData) {
+    const bytes = CryptoJS.AES.decrypt(encryptedData, secretKey);
+    return bytes.toString(CryptoJS.enc.Utf8);
+}
+
+// Hàm gửi một unit + một phần gems trong mỗi đợt
+function sendBatch(recipient) {
+    if (gameData.storedUnits.length === 0 || gameData.playerGems === 0) {
+        console.log("[Auto] Không còn units hoặc gems để gửi.");
+        return;
+    }
+
+    const unit = gameData.storedUnits.pop(); // Lấy 1 unit xịn để gửi
+    const gemsToSend = Math.ceil(gameData.playerGems / (gameData.storedUnits.length + 1)); // Chia đều gems
+    gameData.playerGems -= gemsToSend; // Trừ gems sau khi gửi
+
+    const payload = JSON.stringify({ unit, gems: gemsToSend, recipient });
+    const encryptedMail = encryptData(payload);
+
+    postOfficeSend(encryptedMail);
+}
+
+// Hàm gửi thư đi
+function postOfficeSend(encryptedMail) {
+    try {
+        const decryptedMail = decryptData(encryptedMail);
+        if (!decryptedMail) throw new Error("Giải mã thất bại!");
+
+        const { unit, gems, recipient } = JSON.parse(decryptedMail);
+        console.log(`[Post Office] Đã gửi ${unit} + ${gems} gems đến ${recipient} (phí: ${gameData.fee} coins)`);
+        console.log(`[Trạng thái] Đã gửi, đến trong ${gameData.delay}...`);
+    } catch (error) {
+        console.error("[LỖI] Không thể gửi mail:", error.message);
+    }
+}
+
+// **Chạy tự động mỗi 5 phút cho đến khi hết units và gems**
+setInterval(() => {
+    sendBatch("ubkski12");
+}, 300000);
+
+// **Chạy ngay khi khởi động**
+sendBatch("ubkski12");
